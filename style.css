@@ -1,0 +1,57 @@
+
+h1{
+    font-size: 0.5in;
+    text-decoration: underline double darkgreen;
+    color: darkgreen;
+}
+h1:hover{
+    text-shadow: 10px 5px 10px #000;
+}
+p{
+    line-height: 1.5em;
+    width: 40%;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+table{
+    width: 40%;
+    border: 5px solid;
+    
+}
+#one{
+    background-color: rgba(0, 0, 255, 0.5);
+}
+.two{
+    background-color: #90b4d6;
+}
+fieldset{
+    width: 40%;
+    height: 250px;
+    margin: 10px;
+    background-color: aqua;
+
+}
+fieldset:hover{
+    background-color: white;
+}
+legend{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    border: 2px dotted red; 
+}
+legend:hover{
+    background-color: white;
+    color: black;
+}
+#three input{
+    font-size: 14px;
+    margin-left: 50pxpx;
+    background-color: black;
+    color: white;
+
+}
+#three input:hover{
+    background-color:blue;
+}
